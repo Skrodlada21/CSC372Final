@@ -1,0 +1,4 @@
+Make: Ford, Model: F350 Diesel, Miles per Gallon: 9.0
+Make: Ford, Model: F150, Miles per Gallon: 15.0
+Make: Mercedes, Model: S550, Miles per Gallon: 15.0
+Make: Land Rover, Model: Range Rover Sport, Miles per Gallon: 17.0
